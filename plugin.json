@@ -4,7 +4,9 @@
     "version": "0.0.1",
     "description": "Custom components for A Special Wish - Ohio Valley",
     "overlays": [],
-    "elements": [],
+    "elements": [
+        "./elements/wave-divider.json"
+    ],
     "namedColors": [
         {
             "name": "Blue",
