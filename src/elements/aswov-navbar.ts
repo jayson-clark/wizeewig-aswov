@@ -5,6 +5,7 @@ export const aswovNavbar: ElementDefinition = {
     label: 'ASWOV Navbar',
     icon: 'Menu',
     props: [],
+    propGroups: [],
     node: {
         name: 'AswovNavbar',
         propNames: [],
