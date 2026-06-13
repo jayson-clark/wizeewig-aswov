@@ -1,0 +1,13 @@
+{
+    "name": "aswov",
+    "version": "0.0.1",
+    "private": true,
+    "type": "module",
+    "description": "Custom components for A Special Wish - Ohio Valley",
+    "source": "src/index.ts",
+    "devDependencies": {
+        "@wysiwyg/plugin-cli": "workspace:*",
+        "@wysiwyg/plugin-core": "workspace:*",
+        "typescript": "^6.0.3"
+    }
+}
